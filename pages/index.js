@@ -46,7 +46,7 @@ export default function Home() {
 
 <script async type="text/javascript" src="//asset.fwcdn2.com/js/embed-feed.js"></script>
     <fw-embed-feed
-      channel="narcity_carousel"
+      channel="pillow_cube"
       mode="row"
       open_in="default"
       max_videos="0"
