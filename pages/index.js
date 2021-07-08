@@ -48,6 +48,17 @@ export default function Home() {
             </p>
           </a>
         </div>
+
+<script async type="text/javascript" src="//asset.fwcdn2.com/js/embed-feed.js"></script>
+    <fw-embed-feed
+      channel="narcity_carousel"
+      mode="row"
+      open_in="default"
+      max_videos="0"
+      placement="middle"
+      player_placement="bottom-right"
+    ></fw-embed-feed>
+    
       </main>
 
       <footer className={styles.footer}>
