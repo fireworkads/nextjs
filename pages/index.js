@@ -14,7 +14,7 @@ export default function Home() {
           Welcome to <a href="https://nextjs.org">Ads Playground!</a>
         </h1>
 
-        
+        <p>
 
 <script async type="text/javascript" src="//asset.fwcdn2.com/js/embed-feed.js"></script>
     <fw-embed-feed
@@ -27,7 +27,7 @@ playlist="oQNEXg"
       player_placement="bottom-right"
     ></fw-embed-feed>
     
-    
+    </p>
       </main>
 
       <footer className={styles.footer}>
