@@ -18,13 +18,14 @@ export default function Home() {
 
 <script async type="text/javascript" src="//asset.fwcdn2.com/js/embed-feed.js"></script>
     <fw-embed-feed
-      channel="narcity_carousel"
+      channel="damagedlettuce111973147"
       mode="row"
       open_in="default"
       max_videos="0"
       placement="middle"
       player_placement="bottom-right"
     ></fw-embed-feed>
+    
     
     
     
