@@ -5,26 +5,27 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Nissan test page</title>
+        <title>Pillow Cube</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Ads Playground!</a>
+          Welcome to Ads Playground!
         </h1>
 
         <p>
 
 <script async type="text/javascript" src="//asset.fwcdn2.com/js/embed-feed.js"></script>
     <fw-embed-feed
-      channel="damagedlettuce111973147"
+      channel="narcity_carousel"
       mode="row"
       open_in="default"
       max_videos="0"
       placement="middle"
       player_placement="bottom-right"
     ></fw-embed-feed>
+    
     
     
     
